@@ -31,11 +31,12 @@
 ### 🧑‍🔬 About Me:
 
 
-👋 Hi, I’m @WaywardHayward! a Full Stack Developer from the UK.
+👋 Hi, I’m @WaywardHayward! a Full Stack Developer from the UK
 
-- 💼 I work as a Software Engineer at Microsoft Focusing on Innovation in the Industrial Manufacturing and Energy workspaces.
-- 👀 I’m interested in Code, drones and inventing things.
-- 🌱 I’m currently learning about precision agriculture 
+💼 I work as a Software Engineer at Microsoft Focusing on Innovation in Industrial Manufacturing and Energy.
+
+👀 I’m interested in Code, drones and inventing things.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
