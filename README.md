@@ -38,8 +38,6 @@
 👀 I’m interested in Code, drones and inventing things.
 
 ---
-
----
 ### :fire: My Statistics :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waywardhayward&theme=dark&background=000000)](https://git.io/streak-stats)
