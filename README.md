@@ -35,7 +35,7 @@
 
 💼 I work as a Software Engineer at Microsoft Focusing on Innovation in Industrial Manufacturing and Energy.
 
-👀 I’m interested in Code, drones and inventing things.
+👀 I’m interested in Code, Space, drones and inventing things (sometimes to do with all three).
 
 ---
 ### :fire: My Statistics :
