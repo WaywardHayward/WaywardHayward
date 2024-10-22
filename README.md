@@ -65,7 +65,7 @@
   </div>
 
   <!-- Stats Section -->
-  <div style="margin-top:50px; text-align:center;">
+  <div style="margin-top:50px; text-align:center;" >
     <h2 style="color:#333; font-size:24px;">🔥 My Statistics</h2>
     <a href="https://git.io/streak-stats">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=waywardhayward&theme=dark&background=000000" alt="GitHub Streak" style="margin-top:10px;"/>
