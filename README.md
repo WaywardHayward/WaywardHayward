@@ -1,47 +1,79 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+<div style="background-color:#f4f4f4; padding:20px; border-radius:10px; max-width:1000px; margin:auto;">
+  <div align="center">
+  <!-- Profile Image -->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Profile Gif" style="width:100px; height:100px; border-radius:50%; margin-bottom:20px;"/>
+
+  <!-- Badges and Links -->
+  <div style="margin-bottom:20px;">
+    <a href="https://www.linkedin.com/in/haywardalex/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin: 0 10px;"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=waywardhayward&style=flat-square&color=blue" alt="Profile Views" style="margin: 0 10px;"/>
+  </div>
+
+  <!-- Azure Skills Icons -->
+  <div style="display:grid; grid-template-columns: repeat(6, 1fr); gap:10px; max-width:600px; margin:auto;">
+    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Azure-Data-Explorer-Clusters.svg" alt="Azure Data Explorer" style="width:40px; height:40px;"/>
+    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Azure-DevOps.svg" alt="Azure DevOps" style="width:40px; height:40px;"/>
+    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Digital-Twins.svg" alt="Azure Digital Twins" style="width:40px; height:40px;"/>
+    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Event-Hubs.svg" alt="Azure Event Hubs" style="width:40px; height:40px;"/>
+    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Function-Apps.svg" alt="Azure Function Apps" style="width:40px; height:40px;"/>
+    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/IoT-Edge.svg" alt="Azure IoT Edge" style="width:40px; height:40px;"/>
+    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/IoT-Hub.svg" alt="Azure IoT Hub" style="width:40px; height:40px;"/>
+    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Key-Vaults.svg" alt="Azure Key Vaults" style="width:40px; height:40px;"/>
+    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Kubernetes-Services.svg" alt="Azure Kubernetes Services" style="width:40px; height:40px;"/>
+    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/SQL-Server.svg" alt="Azure SQL Server" style="width:40px; height:40px;"/>
+    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Storage-Accounts.svg" alt="Azure Storage Accounts" style="width:40px; height:40px;"/>
+    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Stream-Analytics-Jobs.svg" alt="Azure Stream Analytics Jobs" style="width:40px; height:40px;"/>
+  </div>
+
+  </div>
+
+  <!-- About Section -->
+  <div style="margin-top:40px;">
+    <h2 style="color:#333; font-size:24px;">🧑‍🔬 About Me</h2>
+    <p style="font-size:16px; color:#555;">
+      👋 Hi, I’m @WaywardHayward! A Full Stack Developer from the UK.
+      <br/> 💼 I work as a Software Engineer at Microsoft, focusing on Innovation in Industrial Manufacturing and Energy.
+      <br/> 👀 I’m interested in code, space, drones, and inventing things (sometimes all three at once).
+    </p>
+  </div>
+
+  <!-- Video Links -->
+<!-- Video Links -->
+<div style="margin-top:40px; text-align:center;">
+  <h2 style="color:#333; font-size:24px;">🎥 Featured Videos</h2>
+
+  
+I've had the pleasure of being a guest on these community streams, where we dive deep into topics around IoT and Azure Digital Twins. In these sessions, we explore how these cutting-edge technologies are transforming industries and discuss practical applications, challenges, and the future of IoT. It’s been a great experience sharing insights and learning alongside other experts in the field!
+  
+  <!-- Container for side-by-side layout -->
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    
+  <!-- Video 1 -->
+  <a href="https://www.youtube.com/watch?v=E3tEuvqQ6Jw" target="_blank" style="text-align:center;">
+    <img src="https://img.youtube.com/vi/E3tEuvqQ6Jw/0.jpg" alt="IoT Show: Model and track the International Space Station with Azure Digital Twins and Data Explorer" style="width:300px; border-radius:10px;">
+    <p style="font-size:16px; color:#555; margin-top:5px;">IoT Show: Model and track the International Space Station with Azure Digital Twins and Data Explorer</p>
+  </a>
+  
+  <!-- Video 2 -->
+  <a href="https://www.youtube.com/watch?v=NmfJJaN5uEE" target="_blank" style="text-align:center;">
+    <img src="https://img.youtube.com/vi/NmfJJaN5uEE/0.jpg" alt="TBuilding Operational Digital Twins Using IoT Data in OpenUSD" style="width:300px; border-radius:10px;">
+    <p style="font-size:16px; color:#555; margin-top:5px;">Building Operational Digital Twins Using IoT Data in OpenUSD</p>
+  </a>
+    
+  </div>
 </div>
 
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/haywardalex/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+
+  <!-- Stats Section -->
+  <div style="margin-top:40px; text-align:center;">
+    <h2 style="color:#333; font-size:24px;">🔥 My Statistics</h2>
+    <a href="https://git.io/streak-stats">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=waywardhayward&theme=dark&background=000000" alt="GitHub Streak" style="margin-top:10px;"/>
     </a>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=waywardhayward&style=flat-square&color=blue" alt=""/>
-    <br/>
-
-<img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Azure-Data-Explorer-Clusters.svg" title="Azure Data Explorer" alt="Azure  Data Explorer" width="8" height="8" />
-  <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Azure-DevOps.svg" title="Azure DevOps" alt="Azure DevOps" width="8" height="8" />
-  <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Digital-Twins.svg" title="Azure Digital Twins" alt="Azure Digital Twins" width="8" height="8" />
-  <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Event-Hubs.svg" title="Azure Event Hubs" alt="Azure DevOps" width="8" height="8" />
-  <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Function-Apps.svg" title="Azure Function Apps" alt="Azure Function Apps" width="8" height="8" />
-  <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/IoT-Edge.svg" title="Azure IoT Edge" alt="Azure IoT Edge" width="8" height="8" />
-  <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/IoT-Hub.svg" title="Azure IoT Hub" alt="Azure IoT Hub"width="8" height="8" />
-  <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Key-Vaults.svg" title="Azure Key Vaults" alt="Azure Key Vaults" width="8" height="8" />
-  <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Kubernetes-Services.svg" title="Azure Kubernetes Services" alt="Azure Kubernetes Services" width="8" height="8" />
-  
-  <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/SQL-Server.svg" title="Azure SQL Server Explorer" alt="Azure SQL Server Explorer" width="8" height="8" />
-  <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Storage-Accounts.svg" title="Azure Storage Accounts" alt="Azure Storage Accounts" width="8" height="8" />
-  <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Stream-Analytics-Jobs.svg" title="Azure Stream Analytics Jobs" alt="Azure Stream Analytics Jobs" width="8" height="8" />
- 
+    <img src="https://github-readme-stats.vercel.app/api?username=Waywardhayward&show_icons=true" alt="GitHub Stats" style="margin-top:10px;"/>
+  </div>
 </div>
-
----
-
-### 🧑‍🔬 About Me:
-
-
-👋 Hi, I’m @WaywardHayward! a Full Stack Developer from the UK
-
-💼 I work as a Software Engineer at Microsoft Focusing on Innovation in Industrial Manufacturing and Energy.
-
-👀 I’m interested in Code, Space, drones and inventing things (sometimes to do with all three).
-
----
-### :fire: My Statistics :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waywardhayward&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<br/>
-
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=Waywardhayward&show_icons=true)
