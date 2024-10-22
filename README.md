@@ -1,7 +1,7 @@
 <div style="background-color:#f4f4f4; padding:20px; border-radius:10px; max-width:1000px; margin:auto;">
   <div align="center">
-  <!-- Profile Image -->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Profile Gif" style="width:100px; height:100px; border-radius:50%; margin-bottom:20px;"/>
+    <!-- Profile Image -->
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Profile Gif" style="width:100px; height:100px; border-radius:50%; margin-bottom:20px;"/>
 
   <!-- Badges and Links -->
   <div style="margin-bottom:20px;">
@@ -30,7 +30,7 @@
   </div>
 
   <!-- About Section -->
-  <div style="margin-top:40px;">
+  <div style="margin-top:50px; padding:10px;">
     <h2 style="color:#333; font-size:24px;">🧑‍🔬 About Me</h2>
     <p style="font-size:16px; color:#555;">
       👋 Hi, I’m @WaywardHayward! A Full Stack Developer from the UK.
@@ -40,35 +40,32 @@
   </div>
 
   <!-- Video Links -->
-<!-- Video Links -->
-<div style="margin-top:40px; text-align:center;">
-  <h2 style="color:#333; font-size:24px;">🎥 Featured Videos</h2>
+  <div style="margin-top:50px; text-align:center;">
+    <h2 style="color:#333; font-size:24px;">🎥 Featured Videos</h2>
+    <p style="font-size:16px; color:#555; margin-bottom:20px;">
+      I've had the pleasure of being a guest on these community streams, where we dive deep into topics around IoT and Azure Digital Twins. In these sessions, we explore how these cutting-edge technologies are transforming industries and discuss practical applications, challenges, and the future of IoT. It’s been a great experience sharing insights and learning alongside other experts in the field!
+    </p>
 
+<!-- Container for side-by-side layout -->
+<div style="display: flex; justify-content: center; gap: 20px;">
   
-I've had the pleasure of being a guest on these community streams, where we dive deep into topics around IoT and Azure Digital Twins. In these sessions, we explore how these cutting-edge technologies are transforming industries and discuss practical applications, challenges, and the future of IoT. It’s been a great experience sharing insights and learning alongside other experts in the field!
-  
-  <!-- Container for side-by-side layout -->
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    
   <!-- Video 1 -->
   <a href="https://www.youtube.com/watch?v=E3tEuvqQ6Jw" target="_blank" style="text-align:center;">
-    <img src="https://img.youtube.com/vi/E3tEuvqQ6Jw/0.jpg" alt="IoT Show: Model and track the International Space Station with Azure Digital Twins and Data Explorer" style="width:300px; border-radius:10px;">
-    <p style="font-size:16px; color:#555; margin-top:5px;">IoT Show: Model and track the International Space Station with Azure Digital Twins and Data Explorer</p>
+    <img src="https://img.youtube.com/vi/E3tEuvqQ6Jw/0.jpg" alt="Model & Track the ISS with Azure Digital Twins" style="width:300px; border-radius:10px;">
+    <p style="font-size:16px; color:#555; margin-top:5px;">Model & Track the ISS with Azure Digital Twins</p>
   </a>
   
   <!-- Video 2 -->
   <a href="https://www.youtube.com/watch?v=NmfJJaN5uEE" target="_blank" style="text-align:center;">
-    <img src="https://img.youtube.com/vi/NmfJJaN5uEE/0.jpg" alt="TBuilding Operational Digital Twins Using IoT Data in OpenUSD" style="width:300px; border-radius:10px;">
+    <img src="https://img.youtube.com/vi/NmfJJaN5uEE/0.jpg" alt="Building Operational Digital Twins Using IoT Data in OpenUSD" style="width:300px; border-radius:10px;">
     <p style="font-size:16px; color:#555; margin-top:5px;">Building Operational Digital Twins Using IoT Data in OpenUSD</p>
   </a>
-    
-  </div>
+  
 </div>
-
-
+  </div>
 
   <!-- Stats Section -->
-  <div style="margin-top:40px; text-align:center;">
+  <div style="margin-top:50px; text-align:center;">
     <h2 style="color:#333; font-size:24px;">🔥 My Statistics</h2>
     <a href="https://git.io/streak-stats">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=waywardhayward&theme=dark&background=000000" alt="GitHub Streak" style="margin-top:10px;"/>
