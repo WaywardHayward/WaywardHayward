@@ -33,32 +33,21 @@ A Raspberry Pi running an AI agent that controls LED strips, monitors garden sen
 
 ## Timeline
 
-```
-2025 ─────────────────────────────────────────────────────────── now
-  │
-  ├── AI agents, Copilot experiences
-  │
-  ├── Hexapod robot, home automation, ADS-B tracking
-  │
-  └── Piano, painting, trail running
-  
-2023 ─────────────────────────────────────────────────────────── 2024
-  │
-  ├── Microsoft Fabric, data platforms
-  │
-  └── Copilot Studio, AI/ML transition
-  
-2021 ─────────────────────────────────────────────────────────── 2023
-  │
-  ├── Azure Digital Twins, IoT
-  │
-  ├── The IoT Show (Microsoft)
-  │
-  └── NVIDIA GTC - OpenUSD & Digital Twins
-  
-2018 ─────────────────────────────────────────────────────────── 2020
-  │
-  └── Azure IoT, device connectivity, edge computing
+```mermaid
+timeline
+    title Career Journey
+    2018 : Azure IoT
+         : Device connectivity
+         : Edge computing
+    2021 : Azure Digital Twins
+         : The IoT Show
+         : NVIDIA GTC
+    2023 : Microsoft Fabric
+         : Copilot Studio
+         : AI/ML transition
+    2025 : AI agents
+         : Hexapod robot
+         : Piano & painting
 ```
 
 ---
