@@ -2,18 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:161b22&height=100&section=header" width="100%" />
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  alex@github:~$  whoami                                     │
-│                                                             │
-│  Alex Hayward                                               │
-│  Principal Software Engineer @ Microsoft                    │
-│                                                             │
-│  Systems thinker. Problem solver.                           │
-│  I design systems that scale and build things that ship -   │
-│  then go home and make a hexapod robot dance.               │
-└─────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%24+whoami;Alex+Hayward;Principal+Software+Engineer+%40+Microsoft" alt="Typing SVG" />
+
+<br/>
+
+*Systems thinker. Problem solver. I design systems that scale and build things that ship - then go home and make a hexapod robot dance.*
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haywardalex/)
 
