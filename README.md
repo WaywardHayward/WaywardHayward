@@ -1,110 +1,66 @@
-<div
-  style="background-color:#f4f4f4; padding:20px; border-radius:10px; max-width:1000px; margin:auto;">
-  <div align="center">
-    <!-- Profile Image -->
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Profile Gif"
-      style="width:100px; height:100px; border-radius:50%; margin-bottom:20px;" />
+<div align="center">
 
-  <!-- Badges and Links -->
-  <div style="margin-bottom:20px;">
-    <a href="https://www.linkedin.com/in/haywardalex/">
-      <img
-        src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn Badge" style="margin: 0 10px;" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=waywardhayward&style=flat-square&color=blue"
-      alt="Profile Views" style="margin: 0 10px;" />
-  </div>
+# Hey, I'm Alex 👋
 
-  <!-- Azure Skills Icons -->
-  <div
-    style="display:grid; grid-template-columns: repeat(6, 1fr); gap:10px; max-width:600px; margin:auto;">
-    <img
-      src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Azure-Data-Explorer-Clusters.svg"
-      alt="Azure Data Explorer" style="width:40px; height:40px;" />
-    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Azure-DevOps.svg"
-      alt="Azure DevOps" style="width:40px; height:40px;" />
-    <img
-      src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Digital-Twins.svg"
-      alt="Azure Digital Twins" style="width:40px; height:40px;" />
-    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Event-Hubs.svg"
-      alt="Azure Event Hubs" style="width:40px; height:40px;" />
-    <img
-      src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Function-Apps.svg"
-      alt="Azure Function Apps" style="width:40px; height:40px;" />
-    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/IoT-Edge.svg"
-      alt="Azure IoT Edge" style="width:40px; height:40px;" />
-    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/IoT-Hub.svg"
-      alt="Azure IoT Hub" style="width:40px; height:40px;" />
-    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Key-Vaults.svg"
-      alt="Azure Key Vaults" style="width:40px; height:40px;" />
-    <img
-      src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Kubernetes-Services.svg"
-      alt="Azure Kubernetes Services" style="width:40px; height:40px;" />
-    <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/SQL-Server.svg"
-      alt="Azure SQL Server" style="width:40px; height:40px;" />
-    <img
-      src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Storage-Accounts.svg"
-      alt="Azure Storage Accounts" style="width:40px; height:40px;" />
-    <img
-      src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Stream-Analytics-Jobs.svg"
-      alt="Azure Stream Analytics Jobs" style="width:40px; height:40px;" />
-  </div>
+**Principal Software Engineer @ Microsoft**
 
-  </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haywardalex/)
+[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/107559917)
+![Profile Views](https://komarev.com/ghpvc/?username=waywardhayward&style=for-the-badge&color=blueviolet)
 
-  <!-- About Section -->
-  <div style="margin-top:50px; padding:10px;">
-    <h2 style="color:#333; font-size:24px;">🧑‍🔬 About Me</h2>
-    <p style="font-size:16px; color:#555;"> 👋 Hi, I’m @WaywardHayward! A Full Stack Developer from
-      the UK. <br /> 💼 I work as a Software Engineer at Microsoft, focusing on Innovation in
-      Industrial Manufacturing and Energy. <br /> 👀 I’m interested in code, space, drones, and
-      inventing things (sometimes all three at once). </p>
-  </div>
-
-  <!-- Video Links -->
-  <div style="margin-top:50px; text-align:center;">
-    <h2 style="color:#333; font-size:24px;">🎥 Featured Videos</h2>
-    <p style="font-size:16px; color:#555; margin-bottom:20px;">
-      I've had the pleasure of being a guest on these community streams, where we dive deep into
-      topics around IoT and Azure Digital Twins. In these sessions, we explore how these
-      cutting-edge technologies are transforming industries and discuss practical applications,
-      challenges, and the future of IoT. It’s been a great experience sharing insights and learning
-      alongside other experts in the field!
-    </p>
-    <div style="display: flex; justify-content: center; gap: 20px;">
-    
-  <!-- Video 1 -->
-  <a href="https://www.youtube.com/watch?v=E3tEuvqQ6Jw" target="_blank"
-    style="text-align:center;">
-    <img src="https://img.youtube.com/vi/E3tEuvqQ6Jw/0.jpg"
-      alt="Model & Track the ISS with Azure Digital Twins"
-      style="width:300px; border-radius:10px;">
-    <p style="font-size:16px; color:#555; margin-top:5px;">Model & Track the ISS with Azure
-      Digital Twins</p>
-  </a>
-
-  <!-- Video 2 -->
-  <a href="https://www.youtube.com/watch?v=NmfJJaN5uEE" target="_blank"
-    style="text-align:center;">
-    <img src="https://img.youtube.com/vi/NmfJJaN5uEE/0.jpg"
-      alt="Building Operational Digital Twins Using IoT Data in OpenUSD"
-      style="width:300px; border-radius:10px;">
-    <p style="font-size:16px; color:#555; margin-top:5px;">Building Operational Digital Twins
-      Using IoT Data in OpenUSD</p>
-  </a>
-  
-  </div>
-
-  </div>
-
-  <!-- Stats Section -->
-  <div style="margin-top:50px; text-align:center;">
-    <h2 style="color:#333; font-size:24px;">🔥 My Statistics</h2>
-    <a href="https://git.io/streak-stats">
-      <img
-        src="https://streak-stats.demolab.com?user=waywardhayward&theme=whatsapp-dark&hide_border=false&mode=weekly&exclude_days=Sun%2CSat"
-        alt="GitHub Streak" />
-    </a>
-  </div>
 </div>
+
+---
+
+## 🧑‍💻 What I Do
+
+By day, I build things at Microsoft - AI agents, Copilot experiences, and data platforms. I've spent years in the Azure ecosystem working on IoT, Digital Twins, and industrial innovation. These days I'm deep in **AI/ML**, **Microsoft Fabric**, and **Copilot Studio**.
+
+I care about clean code, minimal abstractions, and shipping things that actually work.
+
+## 🔧 Tech I Work With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fabric-F25022?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-00BCF2?style=flat-square&logo=azureiotcentral&logoColor=white" />
+</p>
+
+## 🚀 Current Projects
+
+- **[Kelpie](https://github.com/WaywardHayward/kelpie)** - An AI agent framework for building autonomous assistants
+- Building game prototypes (orbital mechanics, creative management sims)
+- Tinkering with home automation on a Raspberry Pi
+
+## 🏃 Outside of Code
+
+When I'm not at a keyboard, I'm usually running trails around East Lothian, painting, or dreaming about the south of France. I believe the best ideas come when you step away from the screen.
+
+## 🎥 Featured Talks
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=E3tEuvqQ6Jw">
+    <img src="https://img.youtube.com/vi/E3tEuvqQ6Jw/mqdefault.jpg" alt="Model & Track the ISS with Azure Digital Twins" width="280" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=NmfJJaN5uEE">
+    <img src="https://img.youtube.com/vi/NmfJJaN5uEE/mqdefault.jpg" alt="Building Operational Digital Twins Using IoT Data in OpenUSD" width="280" />
+  </a>
+</p>
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=waywardhayward&theme=transparent&hide_border=true&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>I build things, break things, and occasionally write about it.</i>
+</p>
