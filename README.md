@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haywardalex/)
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/107559917)
-![Profile Views](https://komarev.com/ghpvc/?username=waywardhayward&style=for-the-badge&color=blueviolet)
 
 <br/>
 
@@ -26,56 +25,9 @@ I care about clean code, minimal abstractions, and shipping things that actually
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,azure,docker,github,vscode,raspberrypi&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,azure,docker,github,vscode&theme=dark" />
   </a>
 </p>
-
----
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">AutoGen Studio Docker</h3>
-      <p align="center">
-        <a href="https://github.com/WaywardHayward/autogen-studio-dockerfile">
-          <img src="https://img.shields.io/github/stars/WaywardHayward/autogen-studio-dockerfile?style=for-the-badge&color=yellow" />
-        </a>
-      </p>
-      <p align="center">Dockerfile for running Microsoft AutoGen Studio - my most popular repo!</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">ISS Azure Data Adapter</h3>
-      <p align="center">
-        <a href="https://github.com/WaywardHayward/iss_azure_data_adapter">
-          <img src="https://img.shields.io/badge/Azure%20IoT-0078D4?style=for-the-badge" />
-        </a>
-      </p>
-      <p align="center">Ingest real-time ISS telemetry into Azure Event Hub & IoT Hub.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Omniverse IoT Samples</h3>
-      <p align="center">
-        <a href="https://github.com/WaywardHayward/ov-iot-samples">
-          <img src="https://img.shields.io/badge/NVIDIA%20Omniverse-76B900?style=for-the-badge" />
-        </a>
-      </p>
-      <p align="center">IoT integration samples for NVIDIA Omniverse and OpenUSD.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Hexapod Robot API</h3>
-      <p align="center">
-        <a href="https://github.com/WaywardHayward/freenove-hexapod-dotnet-api">
-          <img src="https://img.shields.io/badge/.NET%20Robotics-512BD4?style=for-the-badge" />
-        </a>
-      </p>
-      <p align="center">REST API for controlling a Freenove Hexapod robot on Raspberry Pi.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -101,10 +53,6 @@ I care about clean code, minimal abstractions, and shipping things that actually
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waywardhayward&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&icon_color=00BCF2&text_color=666666" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waywardhayward&layout=compact&theme=transparent&hide_border=true&title_color=0078D4&text_color=666666" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=waywardhayward&theme=transparent&hide_border=true&mode=weekly&exclude_days=Sun%2CSat&ring=0078D4&fire=00BCF2&currStreakLabel=0078D4" />
 </p>
 
 ---
