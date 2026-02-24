@@ -48,7 +48,7 @@ alex   005   █      Home automation - LED alerts on flyovers
 ```
 Sometimes the best engineering happens when you're not engineering.
 
-I run trails along the Scottish coast. I'm learning piano. I paint.
+I run along the Scottish coast and countryside. I'm learning piano (slowly). I paint (badly :p).
 The problems you solve away from the keyboard often unlock the ones at it.
 ```
 
