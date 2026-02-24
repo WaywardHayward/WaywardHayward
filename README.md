@@ -36,15 +36,21 @@ A Raspberry Pi running an AI agent that controls LED strips, monitors garden sen
 ```
 2025 ─────────────────────────────────────────────────────────── now
   │
-  ├── AI/ML, Microsoft Fabric, Copilot Studio
+  ├── AI agents, Copilot experiences
   │
-  ├── Hexapod robot + home automation
+  ├── Hexapod robot, home automation, ADS-B tracking
   │
-  └── Started learning piano
+  └── Piano, painting, trail running
   
-2021 ─────────────────────────────────────────────────────────── 2024
+2023 ─────────────────────────────────────────────────────────── 2024
   │
-  ├── Azure Digital Twins, IoT, tracking the ISS
+  ├── Microsoft Fabric, data platforms
+  │
+  └── Copilot Studio, AI/ML transition
+  
+2021 ─────────────────────────────────────────────────────────── 2023
+  │
+  ├── Azure Digital Twins, IoT
   │
   ├── The IoT Show (Microsoft)
   │
