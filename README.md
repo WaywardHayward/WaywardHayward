@@ -41,6 +41,9 @@ I'm learning piano. I paint. I run trails along the Scottish coast. Sometimes th
 | 2023 | Microsoft Fabric, data platforms |
 | 2021 | Azure Digital Twins, OpenUSD integrations |
 | 2018 | Azure IoT, edge computing |
+| 2015 | Cloud migrations, enterprise integration |
+| 2010 | .NET enterprise systems, SOA |
+| 2007 | Started shipping code professionally |
 
 ---
 
