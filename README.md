@@ -8,20 +8,75 @@
 
 ---
 
-## About
+## Currently
 
-I build AI agents by day and tinker with robots by night. Currently working on Copilot experiences and data platforms at Microsoft. Previously spent years deep in Azure IoT and Digital Twins.
+🤖 **Building AI agents and Copilot experiences** at Microsoft - making LLMs actually useful
 
-Outside of work: trail running around Scotland, learning piano, painting, and making my Raspberry Pi do things it probably shouldn't.
+🎮 **Game prototypes** - orbital mechanics simulations, creative management concepts
+
+🕷️ **Hexapod robot** - six-legged chaos controlled from a Raspberry Pi
+
+🎹 **Learning piano** - because why not add another thing
+
+🏃 **Trail running** - Scottish hills, East Lothian coastline
+
+🎨 **Painting** - when screens get too much
 
 ---
 
-## Tech Stack
+## The Setup
+
+A Raspberry Pi running an AI agent that controls LED strips, monitors garden sensors, tracks aircraft overhead, and occasionally makes my hexapod dance. It's ridiculous and I love it.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,azure,docker,github,vscode,raspberrypi&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,azure,docker,raspberrypi&theme=dark" />
   </a>
+</p>
+
+---
+
+## Timeline
+
+```
+2024 ─────────────────────────────────────────────────────────── now
+  │
+  ├── 🤖 AI/ML, Microsoft Fabric, Copilot Studio
+  │
+  ├── 🕷️ Hexapod robot + home automation madness
+  │
+  └── 🎹 Started learning piano
+  
+2021 ─────────────────────────────────────────────────────────── 2023
+  │
+  ├── 🛰️ Azure Digital Twins, IoT, tracking the ISS
+  │
+  ├── 🎬 The IoT Show (Microsoft) - thousands of views
+  │
+  └── 🎬 NVIDIA GTC - OpenUSD & Digital Twins
+  
+2018 ─────────────────────────────────────────────────────────── 2020
+  │
+  └── ☁️ Azure IoT, device connectivity, edge computing
+```
+
+---
+
+## Previously
+
+Back when IoT was my thing, I got to appear on a couple of streams:
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=E3tEuvqQ6Jw">
+    <img src="https://img.youtube.com/vi/E3tEuvqQ6Jw/mqdefault.jpg" alt="The IoT Show" width="250" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=NmfJJaN5uEE">
+    <img src="https://img.youtube.com/vi/NmfJJaN5uEE/mqdefault.jpg" alt="NVIDIA GTC" width="250" />
+  </a>
+</p>
+<p align="center">
+  <i>The IoT Show &nbsp;•&nbsp; NVIDIA GTC</i>
 </p>
 
 ---
@@ -30,29 +85,6 @@ Outside of work: trail running around Scotland, learning piano, painting, and ma
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waywardhayward&theme=github_dark" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waywardhayward&theme=github_dark" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=waywardhayward&theme=github_dark" height="160" />
-</p>
-
----
-
-## Previously
-
-Back in my IoT days, I had the chance to appear on a couple of streams that got some traction:
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=E3tEuvqQ6Jw">
-    <img src="https://img.youtube.com/vi/E3tEuvqQ6Jw/mqdefault.jpg" alt="The IoT Show - Model & Track the ISS with Azure Digital Twins" width="250" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=NmfJJaN5uEE">
-    <img src="https://img.youtube.com/vi/NmfJJaN5uEE/mqdefault.jpg" alt="NVIDIA - Building Operational Digital Twins Using IoT Data in OpenUSD" width="250" />
-  </a>
-</p>
-<p align="center">
-  <i>The IoT Show &nbsp;•&nbsp; NVIDIA GTC</i>
 </p>
 
 ---
