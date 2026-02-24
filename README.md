@@ -51,8 +51,11 @@ I care about clean code, minimal abstractions, and shipping things that actually
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waywardhayward&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&icon_color=00BCF2&text_color=666666" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waywardhayward&layout=compact&theme=transparent&hide_border=true&title_color=0078D4&text_color=666666" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waywardhayward&theme=github_dark" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waywardhayward&theme=github_dark" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=waywardhayward&theme=github_dark" height="160" />
 </p>
 
 ---
