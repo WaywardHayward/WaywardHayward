@@ -1,8 +1,18 @@
+```
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│  $ whoami                                                                    │
+│  Alex Hayward                                                                │
+│  Principal Software Engineer @ Microsoft                                     │
+│                                                                              │
+│  $ cat ~/.profile                                                            │
+│  Systems thinker. Problem solver. I design systems that scale and build      │
+│  things that ship - then go home and make a hexapod robot dance.             │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+```
+
 <div align="center">
-
-# Alex Hayward
-
-**I build things that ship and things that shouldn't exist.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haywardalex/)
 
@@ -10,44 +20,45 @@
 
 ---
 
-### What I Do
+### `$ ps aux | grep active`
 
-By day, I work on AI agents and Copilot experiences at Microsoft. Before that, I helped build Azure Digital Twins and shaped how enterprises model the physical world in software.
-
-By night, I have a Raspberry Pi that tracks aircraft overhead with an SDR, controls a hexapod robot, monitors my garden, and runs an AI agent that ties it all together. It's unnecessary and I love it.
-
----
-
-### Currently Building
-
-- **AI agents** that actually do things (not just chat)
-- **Game prototypes** - orbital mechanics, creative management sims
-- **ADS-B decoder** - real-time aircraft tracking from a software-defined radio
-- **Home automation** - the kind where LEDs pulse when planes fly over
+```
+USER       PID  DESCRIPTION
+alex       001  AI agents & Copilot experiences at Microsoft
+alex       002  Game prototypes - orbital mechanics, creative management
+alex       003  ADS-B decoder - tracking aircraft with SDR
+alex       004  Hexapod robot - six legs, one Raspberry Pi
+alex       005  Home automation - LEDs pulse when planes fly over
+```
 
 ---
 
-### The Creative Stuff
+### `$ cat /var/log/career.log`
 
-I'm learning piano. I paint. I run trails along the Scottish coast. Sometimes the best engineering happens when you're not engineering.
-
----
-
-### Things I've Shipped
-
-| Era | What |
-|-----|------|
-| 2025 | AI agents, Copilot experiences |
-| 2023 | Microsoft Fabric, data platforms |
-| 2021 | Azure Digital Twins, OpenUSD integrations |
-| 2018 | Azure IoT, edge computing |
-| 2015 | Cloud migrations, enterprise integration |
-| 2010 | .NET enterprise systems, SOA |
-| 2007 | Started shipping code professionally |
+```
+2025  AI agents, Copilot experiences
+2023  Microsoft Fabric, data platforms
+2021  Azure Digital Twins, OpenUSD integrations
+2018  Azure IoT, edge computing
+2015  Cloud migrations, enterprise integration
+2010  .NET enterprise systems, SOA
+2007  Started shipping code professionally
+```
 
 ---
 
-### Talks
+### `$ cat /etc/motd`
+
+```
+Sometimes the best engineering happens when you're not engineering.
+
+I'm learning piano. I paint. I run trails along the Scottish coast.
+The problems you solve away from the keyboard often unlock the ones at it.
+```
+
+---
+
+### `$ ls ~/talks/`
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=E3tEuvqQ6Jw">
@@ -59,11 +70,19 @@ I'm learning piano. I paint. I run trails along the Scottish coast. Sometimes th
   </a>
 </p>
 <p align="center">
-  <sub>The IoT Show (Microsoft) &nbsp;|&nbsp; NVIDIA GTC</sub>
+  <code>the-iot-show.mp4</code> &nbsp;|&nbsp; <code>nvidia-gtc.mp4</code>
+</p>
+
+---
+
+### `$ neofetch`
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waywardhayward&theme=github_dark" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waywardhayward&theme=github_dark" width="100%" />
+  <code>I build things that ship and things that shouldn't exist.</code>
 </p>
