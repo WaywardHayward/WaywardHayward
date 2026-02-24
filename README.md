@@ -10,23 +10,18 @@
 
 ## Currently
 
-🤖 **Building AI agents and Copilot experiences** at Microsoft - making LLMs actually useful
-
-🎮 **Game prototypes** - orbital mechanics simulations, creative management concepts
-
-🕷️ **Hexapod robot** - six-legged chaos controlled from a Raspberry Pi
-
-🎹 **Learning piano** - because why not add another thing
-
-🏃 **Trail running** - Scottish hills, East Lothian coastline
-
-🎨 **Painting** - when screens get too much
+- **Building AI agents and Copilot experiences** at Microsoft
+- **Game prototypes** - orbital mechanics simulations, creative management concepts
+- **Hexapod robot** - six-legged chaos controlled from a Raspberry Pi
+- **Learning piano**
+- **Trail running** - Scottish hills, East Lothian coastline
+- **Painting**
 
 ---
 
 ## The Setup
 
-A Raspberry Pi running an AI agent that controls LED strips, monitors garden sensors, tracks aircraft overhead, and occasionally makes my hexapod dance. It's ridiculous and I love it.
+A Raspberry Pi running an AI agent that controls LED strips, monitors garden sensors, tracks aircraft overhead, and occasionally makes my hexapod dance.
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,25 +34,25 @@ A Raspberry Pi running an AI agent that controls LED strips, monitors garden sen
 ## Timeline
 
 ```
-2024 ─────────────────────────────────────────────────────────── now
+2025 ─────────────────────────────────────────────────────────── now
   │
-  ├── 🤖 AI/ML, Microsoft Fabric, Copilot Studio
+  ├── AI/ML, Microsoft Fabric, Copilot Studio
   │
-  ├── 🕷️ Hexapod robot + home automation madness
+  ├── Hexapod robot + home automation
   │
-  └── 🎹 Started learning piano
+  └── Started learning piano
   
-2021 ─────────────────────────────────────────────────────────── 2023
+2021 ─────────────────────────────────────────────────────────── 2024
   │
-  ├── 🛰️ Azure Digital Twins, IoT, tracking the ISS
+  ├── Azure Digital Twins, IoT, tracking the ISS
   │
-  ├── 🎬 The IoT Show (Microsoft) - thousands of views
+  ├── The IoT Show (Microsoft)
   │
-  └── 🎬 NVIDIA GTC - OpenUSD & Digital Twins
+  └── NVIDIA GTC - OpenUSD & Digital Twins
   
 2018 ─────────────────────────────────────────────────────────── 2020
   │
-  └── ☁️ Azure IoT, device connectivity, edge computing
+  └── Azure IoT, device connectivity, edge computing
 ```
 
 ---
@@ -76,7 +71,7 @@ Back when IoT was my thing, I got to appear on a couple of streams:
   </a>
 </p>
 <p align="center">
-  <i>The IoT Show &nbsp;•&nbsp; NVIDIA GTC</i>
+  <i>The IoT Show  |  NVIDIA GTC</i>
 </p>
 
 ---
