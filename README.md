@@ -35,7 +35,7 @@ alex   005   █      Home automation - LED alerts on flyovers
 2025  AI agents, Copilot experiences, Construction, Milk, and Robotics
 2023  Microsoft Fabric, data platforms, Agentic Systems
 2021  Azure Digital Twins, The IoT Show, NVIDIA GTC, The International Space Station
-2019  Azure IoT, edge computing
+2019  Azure IoT, edge computing, digital factories, AI based closed loop control
 2013  Mobile apps, IoT, OPC integration, operations logbooks
 2010  .NET enterprise systems, SOA
 2007  Initial commit
