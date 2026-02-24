@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=200&section=header&text=Alex%20Hayward&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Principal%20Software%20Engineer%20%40%20Microsoft&descSize=18&descAlignY=55)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=200&section=header&text=Alex%20Hayward&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Principal%20Software%20Engineer%20%40%20Microsoft&descSize=18&descAlignY=55" />
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Building+AI+agents+and+copilots;Shipping+clean%2C+minimal+code;Running+trails+around+Scotland)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Building+AI+agents+and+copilots;Azure+IoT+%26+Digital+Twins;Shipping+clean%2C+minimal+code)
 
 </div>
 
@@ -26,32 +26,53 @@ I care about clean code, minimal abstractions, and shipping things that actually
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,azure,kubernetes,docker,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,azure,docker,github,vscode,raspberrypi&theme=dark" />
   </a>
 </p>
 
 ---
 
-## Current Projects
+## Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Kelpie</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">AutoGen Studio Docker</h3>
       <p align="center">
-        <a href="https://github.com/WaywardHayward/kelpie">
-          <img src="https://img.shields.io/badge/AI%20Agent%20Framework-512BD4?style=for-the-badge" />
+        <a href="https://github.com/WaywardHayward/autogen-studio-dockerfile">
+          <img src="https://img.shields.io/github/stars/WaywardHayward/autogen-studio-dockerfile?style=for-the-badge&color=yellow" />
         </a>
       </p>
-      <p align="center">An extensible framework for building autonomous AI assistants with tool use, routing, and multi-provider support.</p>
+      <p align="center">Dockerfile for running Microsoft AutoGen Studio - my most popular repo!</p>
     </td>
-    <td width="50%">
-      <h3 align="center">Side Projects</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">ISS Azure Data Adapter</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Game%20Dev-FF6B6B?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Home%20Automation-00BCF2?style=for-the-badge" />
+        <a href="https://github.com/WaywardHayward/iss_azure_data_adapter">
+          <img src="https://img.shields.io/badge/Azure%20IoT-0078D4?style=for-the-badge" />
+        </a>
       </p>
-      <p align="center">Orbital mechanics prototypes, creative management sims, and Raspberry Pi tinkering.</p>
+      <p align="center">Ingest real-time ISS telemetry into Azure Event Hub & IoT Hub.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Omniverse IoT Samples</h3>
+      <p align="center">
+        <a href="https://github.com/WaywardHayward/ov-iot-samples">
+          <img src="https://img.shields.io/badge/NVIDIA%20Omniverse-76B900?style=for-the-badge" />
+        </a>
+      </p>
+      <p align="center">IoT integration samples for NVIDIA Omniverse and OpenUSD.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Hexapod Robot API</h3>
+      <p align="center">
+        <a href="https://github.com/WaywardHayward/freenove-hexapod-dotnet-api">
+          <img src="https://img.shields.io/badge/.NET%20Robotics-512BD4?style=for-the-badge" />
+        </a>
+      </p>
+      <p align="center">REST API for controlling a Freenove Hexapod robot on Raspberry Pi.</p>
     </td>
   </tr>
 </table>
@@ -62,12 +83,15 @@ I care about clean code, minimal abstractions, and shipping things that actually
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=E3tEuvqQ6Jw">
-    <img src="https://img.youtube.com/vi/E3tEuvqQ6Jw/mqdefault.jpg" alt="Model & Track the ISS with Azure Digital Twins" width="280" style="border-radius:8px" />
+    <img src="https://img.youtube.com/vi/E3tEuvqQ6Jw/mqdefault.jpg" alt="The IoT Show - Model & Track the ISS with Azure Digital Twins" width="280" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=NmfJJaN5uEE">
-    <img src="https://img.youtube.com/vi/NmfJJaN5uEE/mqdefault.jpg" alt="Building Operational Digital Twins Using IoT Data in OpenUSD" width="280" style="border-radius:8px" />
+    <img src="https://img.youtube.com/vi/NmfJJaN5uEE/mqdefault.jpg" alt="NVIDIA - Building Operational Digital Twins Using IoT Data in OpenUSD" width="280" />
   </a>
+</p>
+<p align="center">
+  <i>The IoT Show (Microsoft) &nbsp;&nbsp;•&nbsp;&nbsp; NVIDIA GTC</i>
 </p>
 
 ---
@@ -87,7 +111,7 @@ I care about clean code, minimal abstractions, and shipping things that actually
 
 ## Outside of Code
 
-When I'm not at a keyboard, I'm running trails around East Lothian, painting, or dreaming about the south of France. The best ideas come when you step away from the screen.
+When I'm not at a keyboard, I'm running trails around East Lothian, painting, or dreaming about the south of France.
 
 ---
 
@@ -95,4 +119,4 @@ When I'm not at a keyboard, I'm running trails around East Lothian, painting, or
   <i>I build things, break things, and occasionally write about it.</i>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=100&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=100&section=footer" />
