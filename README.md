@@ -1,20 +1,8 @@
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   alex@hayward:~$ whoami                                                     │
-│   Principal Software Engineer @ Microsoft                                    │
-│                                                                              │
-│   alex@hayward:~$ cat /etc/interests                                         │
-│   AI agents, Copilot experiences, hexapod robots, ADS-B tracking,            │
-│   orbital mechanics, piano, trail running, painting                          │
-│                                                                              │
-│   alex@hayward:~$ uptime                                                     │
-│   up since 2018, currently building weird things with Raspberry Pis          │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
 <div align="center">
+
+# Alex Hayward
+
+**I build things that ship and things that shouldn't exist.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haywardalex/)
 
@@ -22,34 +10,41 @@
 
 ---
 
-### Currently Running
+### What I Do
 
-```bash
-# The setup: a Raspberry Pi that controls LED strips, monitors garden sensors,
-# tracks aircraft overhead via SDR, and occasionally makes a hexapod robot dance.
+By day, I work on AI agents and Copilot experiences at Microsoft. Before that, I helped build Azure Digital Twins and shaped how enterprises model the physical world in software.
 
-$ systemctl status life
-● ai-agents.service      - Building Copilot experiences at Microsoft
-● hexapod.service        - Six-legged robot controlled via Pi
-● adsb-decoder.service   - Tracking aircraft with RTL-SDR
-● side-projects.service  - Game prototypes, orbital mechanics sims
-● human.service          - Piano, painting, trail running
-```
+By night, I have a Raspberry Pi that tracks aircraft overhead with an SDR, controls a hexapod robot, monitors my garden, and runs an AI agent that ties it all together. It's unnecessary and I love it.
 
 ---
 
-### Changelog
+### Currently Building
 
-```diff
-+ 2025  AI agents, Copilot Studio, hexapod robot, piano
-+ 2023  Microsoft Fabric, data platforms, AI/ML transition
-+ 2021  Azure Digital Twins, The IoT Show, NVIDIA GTC
-+ 2018  Azure IoT, device connectivity, edge computing
-```
+- **AI agents** that actually do things (not just chat)
+- **Game prototypes** - orbital mechanics, creative management sims
+- **ADS-B decoder** - real-time aircraft tracking from a software-defined radio
+- **Home automation** - the kind where LEDs pulse when planes fly over
 
 ---
 
-### Previously Streamed
+### The Creative Stuff
+
+I'm learning piano. I paint. I run trails along the Scottish coast. Sometimes the best engineering happens when you're not engineering.
+
+---
+
+### Things I've Shipped
+
+| Era | What |
+|-----|------|
+| 2025 | AI agents, Copilot experiences |
+| 2023 | Microsoft Fabric, data platforms |
+| 2021 | Azure Digital Twins, OpenUSD integrations |
+| 2018 | Azure IoT, edge computing |
+
+---
+
+### Talks
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=E3tEuvqQ6Jw">
@@ -61,19 +56,11 @@ $ systemctl status life
   </a>
 </p>
 <p align="center">
-  <code>The IoT Show</code> &nbsp;|&nbsp; <code>NVIDIA GTC</code>
+  <sub>The IoT Show (Microsoft) &nbsp;|&nbsp; NVIDIA GTC</sub>
 </p>
 
 ---
-
-### Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waywardhayward&theme=github_dark" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <code>I build things, break things, and occasionally write about it.</code>
 </p>
