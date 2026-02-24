@@ -106,8 +106,5 @@
         src="https://streak-stats.demolab.com?user=waywardhayward&theme=whatsapp-dark&hide_border=false&mode=weekly&exclude_days=Sun%2CSat"
         alt="GitHub Streak" />
     </a>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Waywardhayward&show_icons=true&theme=gotham"
-      alt="GitHub Stats" style="margin-top:10px;" />
   </div>
 </div>
